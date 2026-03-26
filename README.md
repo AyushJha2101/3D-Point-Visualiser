@@ -1,7 +1,7 @@
 #  3D Point Reflection Across a Plane Visualizer
 
 ##  Overview
-This Python project calculates and visually represents the reflection of an arbitrary three-dimensional point, $P(x, y, z)$, across a general plane defined by the equation $ax + by + cz + d = 0$. [cite_start]The script takes the point coordinates and the plane coefficients as input, computes the reflected point $P'(x', y', z')$, and generates an interactive 3D plot to demonstrate the geometric relationship. [cite_start]The project aligns with concepts from Analytical Geometry and Visualization (Simulation or visualization)[cite: 31].
+This Python project calculates and visually represents the reflection of an arbitrary three-dimensional point, $P(x, y, z)$, across a general plane defined by the equation $ax + by + cz + d = 0$. The script takes the point coordinates and the plane coefficients as input, computes the reflected point $P'(x', y', z')$, and generates an interactive 3D plot to demonstrate the geometric relationship. The project aligns with concepts from Analytical Geometry and Visualization (Simulation or visualization).
 
 ##  Features
 * **Calculation Module:** Accurately computes the reflected point $P'$ using the vector geometry formula derived from the point-plane relationship.
